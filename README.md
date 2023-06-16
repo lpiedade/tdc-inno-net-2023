@@ -9,7 +9,9 @@ Speaker:
 * [David Reis](https://bit.ly/linkedin-dreis)
 * [Leonardo Piedade](https://bit.ly/linkedin-leoap)
 
-Presentation Deck: [here]([https://bit.ly/tdcsp-2022-deck](https://speakerdeck.com/leoap/do-zero-a-plataforma-digital))
+Presentation Deck: [here](https://bit.ly/tdcsp-2022-deck](https://speakerdeck.com/leoap/do-zero-a-plataforma-digital))
+
+
 
 ---
 ## Blog Posts
@@ -26,6 +28,14 @@ Presentation Deck: [here]([https://bit.ly/tdcsp-2022-deck](https://speakerdeck.c
 * Platform Engineering Teams Done Right… | by adrian cockcroft | Medium
 * What I Talk About When I Talk About Platforms
 
+
+## Books
+
+<img align="left" width="150" height="200" src="images/book_team_topologies.jpg" style="margin:10px 10px 10px 10px; border: 1px solid black;">
+
+&nbsp; &nbsp; &nbsp; [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819/)
+
+&nbsp; &nbsp; &nbsp; Team Topologies is a practical, step-by-step, adaptive model for organizational design and team interaction based on four fundamental team types and three team interaction patterns. It is a model that treats teams as the fundamental means of delivery, where team structures and communication pathways are able to evolve with technological and organizational maturity.
 
 
 
