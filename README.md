@@ -22,17 +22,20 @@ Presentation Deck: [here](https://speakerdeck.com/leoap/do-zero-a-plataforma-dig
 
 ---
 ## Blog Posts
-* Sam Newman - Don't Call It A Platform
-* What Is Platform Engineering, and What Does It Do?
-* Steveys Google Platforms Rant · GitHub
-* DevOps is dead. Embrace platform engineering. - YouTube
-* What is Platform Engineering ? - YouTube
-* Platform Engineering as a (Community) Service • Nicki Watt • GOTO 2021...
-* Chapter 7: Creating a Platform Operating Model - Effective Platform Pr...
-* What Is a Platform Team and What Problems Do They Solve? - YouTube
-* DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused? -...
-* Platform Engineering Teams Done Right… | by adrian cockcroft | Medium
-* What I Talk About When I Talk About Platforms
+* [Sam Newman - Don't Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/)
+* [What Is Platform Engineering, and What Does It Do?](https://www.gartner.com/en/articles/what-is-platform-engineering)
+* [Steveys Google Platforms Rant · GitHub](https://gist.github.com/chitchcock/1281611)
+* [DevOps is dead. Embrace platform engineering. - YouTube](https://www.youtube.com/watch?v=F8xXXVoLqoo)
+* [What is Platform Engineering ? - YouTube](https://www.youtube.com/watch?v=0uuOJ1gzcyE)
+* [Platform Engineering as a (Community) Service * Nicki Watt * GOTO 2021...](https://www.youtube.com/watch?v=4N2ywun-wTE)
+* [Chapter 7: Creating a Platform Operating Model - Effective Platform Pr...](https://learning.oreilly.com/library/view/effective-platform-product/9781801811354/B17613_07_Final_JM.xhtml#_idParaDest-108)
+* [What Is a Platform Team and What Problems Do They Solve? - YouTube](https://www.youtube.com/watch?v=j5M16qooAvo)
+* [DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused? -...](https://www.youtube.com/watch?v=9_v77YiSGEY)
+* [Platform Engineering Teams Done Right… | by adrian cockcroft | Medium](https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23)
+* [https://learning.oreilly.com/videos/infrastructure-ops/0636920868279/](https://learning.oreilly.com/videos/infrastructure-ops/0636920868279/) 
+* [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
+* https://www.youtube.com/watch?v=36FcxlPerdQ](https://www.youtube.com/watch?v=36FcxlPerdQ)
+* [https://www.youtube.com/watch?v=1RaKFcRLihQ](https://www.youtube.com/watch?v=1RaKFcRLihQ)
 
 
 ## Books
