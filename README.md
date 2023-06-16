@@ -9,7 +9,7 @@ Speaker:
 * [David Reis](https://bit.ly/linkedin-dreis)
 * [Leonardo Piedade](https://bit.ly/linkedin-leoap)
 
-Presentation Deck: [here](https://bit.ly/tdcsp-2022-deck](https://speakerdeck.com/leoap/do-zero-a-plataforma-digital))
+Presentation Deck: [here](https://speakerdeck.com/leoap/do-zero-a-plataforma-digital)
 
 
 
