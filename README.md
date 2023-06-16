@@ -12,13 +12,19 @@ Speaker:
 Presentation Deck: [here](https://speakerdeck.com/leoap/do-zero-a-plataforma-digital)
 
 
+---
+## Article
+* [CNCF Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
+
+---
+## Youtube Channel
+* [Platform Engineering](https://www.youtube.com/@PlatformEngineering/)
 
 ---
 ## Blog Posts
 * Sam Newman - Don't Call It A Platform
 * What Is Platform Engineering, and What Does It Do?
 * Steveys Google Platforms Rant · GitHub
-* CNCF Platforms White Paper | CNCF TAG App Delivery
 * DevOps is dead. Embrace platform engineering. - YouTube
 * What is Platform Engineering ? - YouTube
 * Platform Engineering as a (Community) Service • Nicki Watt • GOTO 2021...
