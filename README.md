@@ -34,8 +34,8 @@ Presentation Deck: [here](https://speakerdeck.com/leoap/do-zero-a-plataforma-dig
 * [Platform Engineering Teams Done Right… | by adrian cockcroft | Medium](https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23)
 * [https://learning.oreilly.com/videos/infrastructure-ops/0636920868279/](https://learning.oreilly.com/videos/infrastructure-ops/0636920868279/) 
 * [What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
-* https://www.youtube.com/watch?v=36FcxlPerdQ](https://www.youtube.com/watch?v=36FcxlPerdQ)
-* [https://www.youtube.com/watch?v=1RaKFcRLihQ](https://www.youtube.com/watch?v=1RaKFcRLihQ)
+* [Unifying the Netflix Engineering Experience (DX) • Brian Leathem • PlatformCon 2022](https://www.youtube.com/watch?v=36FcxlPerdQ)
+* [Building an Effective Delivery Platform • Bryan Finster • PlatformCon 2022](https://www.youtube.com/watch?v=1RaKFcRLihQ)
 
 
 ## Books
